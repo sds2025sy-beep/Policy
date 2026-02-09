@@ -10,7 +10,7 @@ We may collect the following information:
 * Phone number
 * Login credentials
 * Learning progress and educational activity within the app
-* Basic device information for app performance and analytics
+* Device information (such as device model, operating system, and anonymous device identifiers) for app performance, security, analytics, and associating user login with their device
 
 ### How We Use Information
 
